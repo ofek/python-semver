@@ -15,9 +15,6 @@ A Python module for `semantic versioning`_. Simplifies comparing versions.
 .. |python-support| image:: https://img.shields.io/pypi/pyversions/semver.svg
    :target: https://pypi.python.org/pypi/semver
    :alt: Python versions
-.. |downloads| image:: https://img.shields.io/pypi/dm/semver.svg
-   :alt: Monthly downloads from PyPI
-   :target: https://pypi.python.org/pypi/semver
 .. |license| image:: https://img.shields.io/pypi/l/semver.svg
    :alt: Software license
    :target: https://github.com/k-bx/python-semver/blob/master/LICENSE.txt
